@@ -23,7 +23,7 @@ Here you will find the slides and three jupyter notebooks for the workshop. Enjo
 
 - [Notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook02.ipynb)
 
-### Example 3: 
+### Example 3: structured light 3D reconstruction
 
 ![image](https://user-images.githubusercontent.com/1587408/133839230-2b0a120c-2d56-4b38-9142-1764f2dd842d.png)
 
