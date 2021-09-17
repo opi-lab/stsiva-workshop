@@ -13,7 +13,7 @@ Here you will find the slides and three jupyter notebooks for the workshop. Enjo
 
 ### Example 1: the wireframe image of a cube
 
-![image](https://user-images.githubusercontent.com/1587408/133839038-80cdd810-ba15-4de6-88de-65388508c89c.png)
+![image](https://user-images.githubusercontent.com/1587408/133839294-580569f4-ee85-46d6-9e1d-2c2fcf74d8ee.png)
 
 - [Notebook](https://github.com/opi-lab/stsiva-workshop/blob/main/notebooks/stsiva_workshop_notebook01.ipynb)
 
