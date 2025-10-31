@@ -2,7 +2,7 @@
 
 Repository for the 3D vision fundamentals workshop @ [STSIVA 2021](https://info.uan.edu.co/stsiva2021-english)
 
-*STSIVA Workshop - 2021*
+*STSIVA Workshop*
 
 **Speakers:**    
 Jhacson Meza - [@jhacsonmeza](https://github.com/jhacsonmeza)    
